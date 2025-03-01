@@ -1,1 +1,1 @@
-# Simpe-LinkedList-C-
+# Simpe-LinkedList C++
